@@ -2,7 +2,7 @@
 
 # Learning Methodology:
 
-Value Iteration: Uses a deterministic approach, updating state values iteratively based on expected future rewards.
+Value Iteration: Uses a deterministic approach, updating state values iteratively based on expected future rewards.\n
 Monte Carlo: Relies on sampling complete episodes, updating values based on actual returns received.
 
 # Updates and Convergence:
