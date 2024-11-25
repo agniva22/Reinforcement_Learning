@@ -29,11 +29,12 @@ A version of our Q-Table is also included in the files.
 ├── colors.py              # For color codes
 ├── creating_qtable.py     # For creating Q-tables
 ├── depick.py              # For de pickling of Q-tables
-├── Evader.py              # For eavders movement and policy
+├── evader.py              # For eavders movement and policy
 ├── level.py               # For creating walls blocks
-├── Player.py              # For common movement of both pursuer and eavder
-├── Pursuer.py             # For pusuer movement and policy
-├── Q_policy.py            # Contains Q learning policy
+├── player.py              # For common movement of both pursuer and eavder
+├── plot.py                # For ploting episodes vs rewards
+├── pursuer.py             # For pusuer movement and policy
+├── policy.py              # Contains Q learning policy
 ├── raycast.py             # For incluidng ray casting
 ├── train.py               # To train the agents
 ├── vision.py              # For define vision range
