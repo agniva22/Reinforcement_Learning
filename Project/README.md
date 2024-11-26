@@ -46,6 +46,9 @@ A dashboard is added, in which current state of environment, rewards of the agen
 
 ## Visualization
 
+1. **Rewards Over 100 Episodes**
 ![Rewards Over 100 Episodes](episode_vs_reward_ep_100.png)
+
+1. **Rewards Over 1000 Episodes**
 ![Rewards Over 1000 Episodes](episode_vs_reward_ep_1000.png)
 
