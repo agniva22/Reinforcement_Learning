@@ -13,7 +13,7 @@ evader_rewards = logs["evader_reward"]
 # Plot the data
 plt.figure(figsize=(10, 6))
 plt.plot(episodes, pursuer_rewards, label="Pursuer Reward", color="blue")
-plt.plot(episodes, evader_rewards, label="Evader Reward", color="orange")
+plt.plot(episodes, evader_rewards, label="Evaders Reward", color="orange")
 plt.xlabel("Episode")
 plt.ylabel("Reward")
 plt.title("Episode vs. Rewards")
