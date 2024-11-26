@@ -36,7 +36,8 @@ A version of our Q-Table is also included in the files.
 ├── pursuer.py             # For pusuer movement and policy
 ├── policy.py              # Contains Q learning policy
 ├── raycast.py             # For incluidng ray casting
-├── train.py               # To train the agents
+├── train.py               # For train the agents
+├── test.py                # For testing the environment
 ├── vision.py              # For define vision range
 ├── walls.py               # For defining walls
 
